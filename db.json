@@ -1,0 +1,12 @@
+{
+	"contacts": [
+		{
+			"name": "Dave",
+			"email": "dave@gmail.com",
+
+			"address": "47568 NW 34ST, 33434 FL, USA",
+			"phone": "7864445566",
+			"note": ["write a note here", "write another note here"]
+		}
+	]
+}
